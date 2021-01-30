@@ -81,7 +81,10 @@ There are additional services such as *Function as a Service*,
 ---
 
 ## AWS-Fundamentals
-
+### AWS Account
+-An AWS Account is a container for identities and  Aws Resources
+- Identities: is referring to users
+- Resources: things which you have provision inside of aws account
 ### AWS Support Plans
 
 - Basic (free)
