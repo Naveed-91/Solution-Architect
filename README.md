@@ -72,6 +72,12 @@ very little control.
 There are additional services such as *Function as a Service*,
 *Container as a Service*, and *DataBase as a Service* which be explained later.
 
+## Resilience 
+- Global Resilience: In global resilience our data is saved in different regions all over the world.
+- Region Resilience: In region resilience our data is saved in different availability zones in the same regions.
+- Zone Resilience:  In Zone Resilience our data is saved in two or more data center.
+- Zone: collection of two or more data center is called zone.
+
 ---
 
 ## AWS-Fundamentals
